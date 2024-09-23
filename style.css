@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+
+}
+
+
+
+#side_bar{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 13%;
+    gap: 2rem;
+    background-color: #202940;
+    transition: 0.5s;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+#side_bar img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+    border-radius: 15px;
+    width: 200px;
+    transition: 0.5s;
+}
+
+
+
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+header i{
+    color: #04aa6d;
+}
+
+#side_bar ul li span{
+    transition: 0.5s;
+}
+header{
+    background-color:#202940;
+    margin: 10px;
+    border-radius: 10px;
+}
+#side_bar ul li:hover{
+    cursor: pointer;
+    background-color:  #04aa6d;
+    a{
+        color: #ffffff;
+    }
+     span{
+         display: flex;
+         font-size: 10px;
+     }
+}
+
+
+
+
+
+
+.card i{
+    color: #202940;
+}
+
+@media (width <= 1280px) {
+    #side_bar{
+        width: 20%;
+    }
+}
+/* midia query */
+/*@media screen and (max-width: 768px) {*/
+
+    #side_bar.active {
+        width: 100px;
+     
+        li span{
+         display: none;
+        }
+        li{
+         width: 100%;
+         text-align: center;
+         background-color: transparent;
+        }
+     
+        ul{
+         padding: 10px;
+        }
+        img{
+         width: 50px;
+         height: 50px;
+        }
+        #logout{
+         background-color: #202940;
+        }
+        span{
+         display: none;
+        }
+     }
+     #side_bar {
+        width: 100px;
+     
+        li span{
+         display: none;
+        }
+        li{
+         width: 100%;
+         text-align: center;
+         background-color: transparent;
+        }
+     
+        ul{
+         padding: 10px;
+        }
+        img{
+         width: 50px;
+         height: 50px;
+        }
+        #logout{
+         background-color: #202940;
+        }
+        span{
+         display: none;
+        }
+     }
+    /*}*/
+
+
+/*#MonthLySaleCard{*/
+/*    display: flex;*/
+/*    gap: 5px;*/
+/*   overflow: scroll;*/
+/*}*/
+
+
+/*#container_box_ .card{*/
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(16, 12, 12, 0.8)), url('./Assets/capstone_logo.jpg');*/
+/*}*/
+
+#box_container .card {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(16, 12, 12, 0.77)), url('./Assets/capstone_logo.jpg');
+}
+
+

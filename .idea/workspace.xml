@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5964927-ec52-46a8-8de0-a73e15248e6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data_Sales/Get_product_info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Genearete_best_Seller_of_month.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffyShop/Model/ViewProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileUploader/MainJs/Auth/GetLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adasys_Space/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adasys_Space/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BRG_SYSTEM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BRG_SYSTEM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/CRUD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoffyShop/Main_js/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffyShop/Main_js/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/Uploads/MyProfile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Expense_Tracker/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Expense_Tracker/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Milk-Tea-E-Commerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Milk-Tea-E-Commerce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PortfolioWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/Social links profile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social links profile/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/phpstorm-workshop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-design-course-restaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../web-design-course-restaurant" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MainJs/Add_product.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Create_Branch.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Create_sales.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Create_userCredentials.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Employee_login.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/Generate_total_sold_by_selected_employee.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MainJs/dashboard.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/View/Employee_view.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/View/LowStacks_List.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/View/admin_login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/View/dashboard.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jROq7TLF95o7H8ZaJxsOXWytZJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/CapstoneProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\CapstoneProject\Vendors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\CapstoneProject\Vendors" />
+      <recent name="L:\PhpstormProjects\CapstoneProject\Assets" />
+      <recent name="L:\PhpstormProjects\CapstoneProject\View" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5964927-ec52-46a8-8de0-a73e15248e6f" name="Changes" comment="" />
+      <created>1721346610557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721346610557</updated>
+      <workItem from="1721346611630" duration="1651000" />
+      <workItem from="1721353281015" duration="1408000" />
+      <workItem from="1721359419803" duration="4000" />
+      <workItem from="1721386312638" duration="1485000" />
+      <workItem from="1721398171807" duration="1167000" />
+      <workItem from="1721865511864" duration="189000" />
+      <workItem from="1723178011201" duration="848000" />
+      <workItem from="1723215046135" duration="599000" />
+      <workItem from="1723332073654" duration="182000" />
+      <workItem from="1725092938970" duration="8000" />
+      <workItem from="1725096220808" duration="95000" />
+      <workItem from="1725541908148" duration="8257000" />
+      <workItem from="1725583888413" duration="1858000" />
+      <workItem from="1725589038206" duration="4061000" />
+      <workItem from="1725593343094" duration="4662000" />
+      <workItem from="1725604840106" duration="4586000" />
+      <workItem from="1725612285505" duration="11222000" />
+      <workItem from="1725630774317" duration="7210000" />
+      <workItem from="1725659624056" duration="4459000" />
+      <workItem from="1725670807297" duration="2686000" />
+      <workItem from="1725715461536" duration="3933000" />
+      <workItem from="1725790458748" duration="10509000" />
+      <workItem from="1725805983311" duration="6805000" />
+      <workItem from="1725837758648" duration="7237000" />
+      <workItem from="1725851268984" duration="7409000" />
+      <workItem from="1725873007081" duration="1208000" />
+      <workItem from="1725879669060" duration="1530000" />
+      <workItem from="1725882760311" duration="14238000" />
+      <workItem from="1725921497393" duration="780000" />
+      <workItem from="1725926756703" duration="3107000" />
+      <workItem from="1725938254698" duration="2793000" />
+      <workItem from="1725944310725" duration="8222000" />
+      <workItem from="1725970710853" duration="2559000" />
+      <workItem from="1725973920309" duration="9473000" />
+      <workItem from="1726007209002" duration="172000" />
+      <workItem from="1726007393139" duration="11095000" />
+      <workItem from="1726039269350" duration="5346000" />
+      <workItem from="1726053690964" duration="545000" />
+      <workItem from="1726054373442" duration="18405000" />
+      <workItem from="1726098136121" duration="7085000" />
+      <workItem from="1726143406240" duration="14783000" />
+      <workItem from="1726179512693" duration="4924000" />
+      <workItem from="1726187480588" duration="8150000" />
+      <workItem from="1726197787513" duration="9998000" />
+      <workItem from="1726213561357" duration="10003000" />
+      <workItem from="1726234518442" duration="609000" />
+      <workItem from="1726237914676" duration="1319000" />
+      <workItem from="1726265801122" duration="243000" />
+      <workItem from="1726266107056" duration="3375000" />
+      <workItem from="1726307716190" duration="7523000" />
+      <workItem from="1726317700885" duration="10329000" />
+      <workItem from="1726362956655" duration="534000" />
+      <workItem from="1726397712475" duration="3730000" />
+      <workItem from="1726443804545" duration="14015000" />
+      <workItem from="1726465318287" duration="272000" />
+      <workItem from="1726465894692" duration="114000" />
+      <workItem from="1726475757133" duration="1405000" />
+      <workItem from="1726479123838" duration="295000" />
+      <workItem from="1726480680724" duration="6105000" />
+      <workItem from="1726492520050" duration="11578000" />
+      <workItem from="1726524358092" duration="2850000" />
+      <workItem from="1726529311951" duration="11309000" />
+      <workItem from="1726570569163" duration="2465000" />
+      <workItem from="1726576759943" duration="11728000" />
+      <workItem from="1726650241354" duration="973000" />
+      <workItem from="1726652382831" duration="634000" />
+      <workItem from="1726654407147" duration="7000" />
+      <workItem from="1726672392704" duration="1525000" />
+      <workItem from="1726713790603" duration="5659000" />
+      <workItem from="1726733887734" duration="1227000" />
+      <workItem from="1726748556320" duration="5895000" />
+      <workItem from="1726797764639" duration="8735000" />
+      <workItem from="1726816975258" duration="5497000" />
+      <workItem from="1726833268554" duration="13699000" />
+      <workItem from="1726872653600" duration="1093000" />
+      <workItem from="1726877534552" duration="5284000" />
+      <workItem from="1726887142216" duration="375000" />
+      <workItem from="1726927167789" duration="9255000" />
+      <workItem from="1726964249819" duration="240000" />
+      <workItem from="1727066254778" duration="1600000" />
+      <workItem from="1727074624031" duration="3401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

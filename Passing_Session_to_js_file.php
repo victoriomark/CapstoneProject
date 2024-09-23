@@ -1,0 +1,1 @@
+<?phpsession_start();if (isset($_SESSION['branch'])){    $branch = $_SESSION['branch'];    echo json_encode($branch);}else{   echo json_encode('No session Available');}
